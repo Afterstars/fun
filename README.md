@@ -1,6 +1,6 @@
 # fun
 
-Weight of shreyash pandey is 200kg 
+Weight of shreyash pandey is 200kg.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae dui pulvinar, mollis nunc a, malesuada nunc. In odio dui, fermentum eget velit ut, volutpat suscipit ex. Vestibulum ultricies accumsan felis, quis rhoncus mauris. Praesent urna leo, elementum vitae feugiat ut, malesuada et mauris. Donec vitae dui at est egestas pharetra. Phasellus molestie dui quis mauris tristique, a imperdiet orci gravida. Nunc pulvinar maximus eros. Mauris ultrices, elit fermentum varius ultrices, diam felis vehicula metus, nec fringilla sapien tortor in ipsum. Sed finibus tortor a urna pharetra varius. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce molestie erat nibh, ut pulvinar nibh efficitur sed.
 
